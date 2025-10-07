@@ -20,3 +20,4 @@ def bfs(visited,graph,node):
                 queue.append(neighbour)
 print("following is the breadth first search")
 bfs(visited,graph,'5')
+
